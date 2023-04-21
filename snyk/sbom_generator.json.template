@@ -1,0 +1,5 @@
+{
+    "organization_token":"<See Readme>",
+    "report_name":"<Example: Appliance.Connectors.azure-connector>",
+    "snyk_api_token":"<See Readme>"
+}
